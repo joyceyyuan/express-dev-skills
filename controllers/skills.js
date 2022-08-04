@@ -33,11 +33,3 @@ module.exports = {
     create,
     delete: deleteSkill
 }
-
-module.exports = {
-    index,
-    show,
-    new: newSkill,
-    create,
-    delete: deleteSkill
-}
